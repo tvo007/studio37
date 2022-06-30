@@ -1,1 +1,3 @@
-Landing page for Studio 37
+Landing page for Studio 37.
+
+Made with NextJS.
